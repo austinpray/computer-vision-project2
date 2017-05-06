@@ -1,80 +1,85 @@
 mnist1.py
+75b89cc3d620e5073daae9cb35a8c7db  mnist1.py
 Extracting MNIST_data/train-images-idx3-ubyte.gz
 Extracting MNIST_data/train-labels-idx1-ubyte.gz
 Extracting MNIST_data/t10k-images-idx3-ubyte.gz
 Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
-step 0, training accuracy 0.1
-step 100, training accuracy 0.9
-step 200, training accuracy 0.91
-step 300, training accuracy 0.97
-step 400, training accuracy 0.93
-step 500, training accuracy 0.96
-step 600, training accuracy 0.94
+step 0, training accuracy 0.12
+step 100, training accuracy 0.93
+step 200, training accuracy 0.94
+step 300, training accuracy 0.98
+step 400, training accuracy 1
+step 500, training accuracy 0.97
+step 600, training accuracy 0.96
 step 700, training accuracy 0.97
-step 800, training accuracy 0.96
-step 900, training accuracy 0.92
-test accuracy 0.9745
+step 800, training accuracy 1
+step 900, training accuracy 0.97
+test accuracy 0.9735
 mnist2.py
+c5128d575ba23cbb13c89439e4f8471c  mnist2.py
 Extracting MNIST_data/train-images-idx3-ubyte.gz
 Extracting MNIST_data/train-labels-idx1-ubyte.gz
 Extracting MNIST_data/t10k-images-idx3-ubyte.gz
 Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
 step 0, training accuracy 0.11
-step 100, training accuracy 0.95
-step 200, training accuracy 0.94
-step 300, training accuracy 0.98
-step 400, training accuracy 0.96
-step 500, training accuracy 0.99
-step 600, training accuracy 1
-step 700, training accuracy 0.98
-step 800, training accuracy 1
-step 900, training accuracy 0.99
-test accuracy 0.9886
-mnist3.py
-Extracting MNIST_data/train-images-idx3-ubyte.gz
-Extracting MNIST_data/train-labels-idx1-ubyte.gz
-Extracting MNIST_data/t10k-images-idx3-ubyte.gz
-Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
-step 0, training accuracy 0.1
-step 100, training accuracy 0.95
-step 200, training accuracy 0.98
+step 100, training accuracy 0.92
+step 200, training accuracy 0.97
 step 300, training accuracy 0.98
 step 400, training accuracy 0.99
-step 500, training accuracy 0.98
-step 600, training accuracy 1
-step 700, training accuracy 1
-step 800, training accuracy 1
-step 900, training accuracy 0.97
-test accuracy 0.9866
-mnist4.py
-Extracting MNIST_data/train-images-idx3-ubyte.gz
-Extracting MNIST_data/train-labels-idx1-ubyte.gz
-Extracting MNIST_data/t10k-images-idx3-ubyte.gz
-Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
-step 0, training accuracy 0.1
-step 100, training accuracy 0.94
-step 200, training accuracy 0.96
-step 300, training accuracy 0.96
-step 400, training accuracy 1
-step 500, training accuracy 0.98
-step 600, training accuracy 0.99
-step 700, training accuracy 0.96
-step 800, training accuracy 0.97
-step 900, training accuracy 0.96
-test accuracy 0.9829
-mnist5.py
-Extracting MNIST_data/train-images-idx3-ubyte.gz
-Extracting MNIST_data/train-labels-idx1-ubyte.gz
-Extracting MNIST_data/t10k-images-idx3-ubyte.gz
-Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
-step 0, training accuracy 0.08
-step 100, training accuracy 0.95
-step 200, training accuracy 0.93
-step 300, training accuracy 0.99
-step 400, training accuracy 0.99
-step 500, training accuracy 0.97
+step 500, training accuracy 0.96
 step 600, training accuracy 0.98
+step 700, training accuracy 0.99
+step 800, training accuracy 0.97
+step 900, training accuracy 0.95
+test accuracy 0.982
+mnist3.py
+24daedcadb5bc1c58297d4bc7b8754dc  mnist3.py
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy 0.07
+step 100, training accuracy 0.94
+step 200, training accuracy 0.93
+step 300, training accuracy 0.94
+step 400, training accuracy 0.97
+step 500, training accuracy 0.98
+step 600, training accuracy 0.96
 step 700, training accuracy 0.97
-step 800, training accuracy 0.99
+step 800, training accuracy 1
 step 900, training accuracy 0.99
-test accuracy 0.9849
+test accuracy 0.978
+mnist4.py
+726c46d7b0498e873ba7e53874c33d95  mnist4.py
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy 0.07
+step 100, training accuracy 0.92
+step 200, training accuracy 0.95
+step 300, training accuracy 0.98
+step 400, training accuracy 0.95
+step 500, training accuracy 0.96
+step 600, training accuracy 0.96
+step 700, training accuracy 0.99
+step 800, training accuracy 0.96
+step 900, training accuracy 0.99
+test accuracy 0.9772
+mnist5.py
+bb21666fcb0c7069fd42e63e499cb134  mnist5.py
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+step 0, training accuracy 0.12
+step 100, training accuracy 0.91
+step 200, training accuracy 0.98
+step 300, training accuracy 0.94
+step 400, training accuracy 0.98
+step 500, training accuracy 0.96
+step 600, training accuracy 0.97
+step 700, training accuracy 0.98
+step 800, training accuracy 0.99
+step 900, training accuracy 0.97
+test accuracy 0.9804
